@@ -1,6 +1,6 @@
 
 import { getRegresion1 } from './getRegresion1'
-
+//comentario
 
 describe('getRegresion', () => {
   it('should return the fact of the numbers', () => {
